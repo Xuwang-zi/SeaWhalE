@@ -130,7 +130,7 @@ H<sub>2</sub>O
 
 插入图片
 
-![one punch man](D:\!\本地代码\GitHub_Location\000.png)
+![one punch man](000.png)
 
 LaTeX公式
 $$
