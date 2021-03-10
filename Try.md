@@ -130,7 +130,7 @@ H<sub>2</sub>O
 
 插入图片
 
-![one punch man](000.png)
+![one punch man](https://github.com/Xuwang-zi/SeaWhalE/blob/e8e949496e1e06ef73e46160d74491bd31dee949/000.png)
 
 LaTeX公式
 $$
